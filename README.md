@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/@gauravs87286192" target="blank"><img src="https://img.shields.io/twitter/follow/@gauravs87286192?logo=twitter&style=for-the-badge" alt="@gauravs87286192" /></a> </p>
 
-- 🔭 I’m currently working on **ChatGPT Clone**
+- 🔭 I’m currently working on **AI Tool**
 
 - 🌱 I’m currently learning **Tensorflow**
 
